@@ -6,7 +6,7 @@
 
 
 
-## 🙌 Supported by
+## Supported by
 
 We are grateful for support from **Daytona Grid Startup Program**.
 
